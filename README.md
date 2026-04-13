@@ -96,3 +96,26 @@
 
 🔹 Perkembangan blockchain lain seperti Solana, Polkadot, dan Cosmos
 
+# 10. Studi Kasus & Projek Akhir
+
+🔹 Membangun DApp sederhana (misalnya marketplace NFT atau voting system)
+
+🔹 Membuat smart contract yang terhubung ke IoT atau SCADA
+
+🔹 Mengembangkan solusi blockchain untuk kasus industri spesifik
+
+# Tools & Sumber Belajar yang Direkomendasikan
+
+🛠 Solidity, Hardhat, Truffle
+
+🛠 Web3.js, Ethers.js
+
+🛠 Metamask, Infura, Alchemy
+
+🛠 IPFS, The Graph
+
+🛠 Remix IDE, Foundry
+
+📚 Ethereum.org, Solidity Docs, CryptoZombies
+
+📚 OpenZeppelin, Chainlink Docs
