@@ -25,3 +25,37 @@
 🔹 Public & Private Keys, Digital Signature
 
 🔹 Wallet & Metamask untuk Web3
+
+# 3. Smart Contract & Solidity
+
+🔹 Dasar-dasar Solidity (bahasa pemrograman smart contract)
+
+🔹 Struktur smart contract di Ethereum
+
+🔹 Fungsi dasar, variabel, dan gas fees dalam Solidity
+
+🔹 Pengujian dan deployment smart contract menggunakan Remix, Hardhat, dan Truffle
+
+🔹 Audit smart contract untuk keamanan
+
+# 4. Interaksi dengan Blockchain (DApp Development)
+
+🔹 Konsep Decentralized Applications (DApps)
+
+🔹 Menggunakan Web3.js & Ethers.js untuk berinteraksi dengan smart contract
+
+🔹 Backend dengan IPFS, The Graph, dan database terdesentralisasi lainnya
+
+🔹 Integrasi wallet seperti Metamask di aplikasi Web3
+
+🔹 Frontend development menggunakan React.js atau Next.js
+
+# 5. DeFi (Decentralized Finance) & NFT
+
+🔹 Konsep Decentralized Finance (DEX, lending, staking, yield farming)
+
+🔹 Penggunaan dan pembuatan NFT (ERC-721, ERC-1155)
+
+🔹 Marketplace NFT dan standar interoperabilitas
+
+🔹 DAO (Decentralized Autonomous Organization)
