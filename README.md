@@ -59,3 +59,40 @@
 🔹 Marketplace NFT dan standar interoperabilitas
 
 🔹 DAO (Decentralized Autonomous Organization)
+
+# 6. Layer 2 & Scalability
+
+🔹 Layer 2 solutions (Polygon, Arbitrum, Optimism)
+
+🔹 Cross-chain interoperability
+
+🔹 Rollups: ZK Rollup & Optimistic Rollup
+
+🔹 Sidechains dan Plasma
+
+# 7. Keamanan & Audit Smart Contract
+
+🔹 Risiko dan eksploitasi di Web3 (reentrancy, overflow, dsb.)
+
+🔹 Tools untuk audit smart contract (Slither, MythX, dsb.)
+
+🔹 Best practices dalam pengembangan Web3 yang aman
+
+# 8. Implementasi Blockchain di Dunia Nyata
+
+🔹 Web3 dalam industri (IoT, SCADA, supply chain, fintech, dsb.)
+
+🔹 Blockchain untuk identitas digital dan manajemen data
+
+🔹 Integrasi Web3 dalam aplikasi enterprise
+
+# 9. Tren & Masa Depan Web3
+
+🔹 Masa depan Ethereum dan Ethereum 2.0
+
+🔹 Regulasi dan legalitas Web3
+
+🔹 Teknologi Web3 di luar blockchain (decentralized storage, compute, AI)
+
+🔹 Perkembangan blockchain lain seperti Solana, Polkadot, dan Cosmos
+
